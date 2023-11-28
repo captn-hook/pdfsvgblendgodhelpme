@@ -1,0 +1,1 @@
+blender -b -P main.py -- C:\Users\trist\pdfsvgblendgodhelpme\continued\
